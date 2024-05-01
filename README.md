@@ -6,7 +6,7 @@ This package will fake your activity by printing random messages into the Termin
 
 ## Here's what it looks like?
 
-(![alt text](<2024-05-01 10-34-27.gif>))
+![alt text](<2024-05-01 10-34-27.gif>)
 
    
   
